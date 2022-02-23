@@ -1,0 +1,1 @@
+## Setup wordpress with docker and docker-compose 
